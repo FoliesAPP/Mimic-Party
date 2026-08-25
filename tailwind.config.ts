@@ -10,6 +10,7 @@ const config: Config = {
     extend: {
       fontFamily: {
         game: ["'Press Start 2P'", "monospace"],
+        
       },
     },
   },
