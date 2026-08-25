@@ -9,6 +9,7 @@ const DEFAULT_HUD: HUDState = {
   creatureName: "", element: "fire",
   colors: { primary: "#FF4500", secondary: "#FF8C00", accent: "#FFD700" },
   boss: null,
+  
 };
 
 function stopEngine(engine: GameEngine | null) {
