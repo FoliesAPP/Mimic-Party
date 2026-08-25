@@ -7,6 +7,7 @@ const nextConfig = {
     config.optimization.moduleIds = "deterministic";
 
     // Keep all server-side game code in a single chunk so workers never look
+    
     // for a split-off chunk that hasn't been flushed to disk yet.
     if (isServer) {
       config.optimization.splitChunks = false;
