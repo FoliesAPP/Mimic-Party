@@ -6,15 +6,8 @@
 
 ### **ONE SOUND. ONE SHOT. ZERO DIGNITY.**
 
-<p>
-  <a href="https://pump.fun/coin/2kGyNEvWfmcqFGUUh7hTECwJ42yZt6wG3U1MJie7pump">
-    <img src="https://img.shields.io/badge/BUY%20$MIMIC-PUMP.FUN-00D18C?style=for-the-badge&logo=solana&logoColor=white&labelColor=171A21" alt="$MIMIC on Pump.fun">
-  </a>
-</p>
 
-<p>
-  <code>CA: 2kGyNEvWfmcqFGUUh7hTECwJ42yZt6wG3U1MJie7pump</code>
-</p>
+
 
 
 <p>
